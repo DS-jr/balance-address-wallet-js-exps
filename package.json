@@ -2,5 +2,8 @@
   "name": "balance-address-wallet-js-exps",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.2"
+  }
 }
